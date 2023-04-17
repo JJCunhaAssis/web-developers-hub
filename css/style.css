@@ -32,6 +32,7 @@ header, section, footer{
     display: inline-block;
     text-decoration: none;
     border-radius: 0.5em;
+    border: 2px solid
     
 }
 .button:hover{
