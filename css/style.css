@@ -37,3 +37,10 @@ header, section, footer{
 .button:hover{
     background-color: black;
 }
+
+.paragrafo{
+    color:firebrick;
+}
+.segundo_paragrafo{
+    color:maroon
+}
